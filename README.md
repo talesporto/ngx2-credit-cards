@@ -1,15 +1,20 @@
-# ngx-credit-cards
+# ngx2-credit-cards
 A Credit Card Directives and Form Validators package for Angular X (4+).
 
 This is a wrapper around [Jesse Pollaks payment library](https://github.com/jessepollak/payment).
 
 This library is AOT compatible.
 
+
+Pay attention!!!
+This is just a fork of the original project. The original project is not mantained anymore. We forked it and fix the bugs.
+
+
 ---
 # How to install?
 
 ```sh
-npm install ngx-credit-cards --save
+npm install ngx2-credit-cards --save
 ```
 
 # How to use?
@@ -22,7 +27,7 @@ You can use the formatting directives on your input fields.
 ```js
 import { NgModule } from '@angular/core';
 
-import { NgXCreditCardsModule } from 'ngx-credit-cards';
+import { NgXCreditCardsModule } from 'ngx2-credit-cards';
 
 import { AppComponent } from './app.component';
 
