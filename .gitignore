@@ -45,3 +45,5 @@ Thumbs.db
 *.metadata.json
 *.map.js
 *.js  # or /src/**/*.js
+**/*.js
+**/*.js.map
